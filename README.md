@@ -3,6 +3,8 @@
 Prédire si une transaction par chèque finira en impayé, alors que **seulement 0,65 % des transactions** sont des impayés
 (4,6 millions de transactions). Le projet compare plusieurs modèles et plusieurs stratégies de rééquilibrage des classes.
 
+*Projet réalisé en binôme : Marvin Curty-Ménez et Marin Nagy, Master SISE, Université Lumière Lyon 2.*
+
 ## Démarche
 
 1. **Nettoyage** (`01_clean.ipynb`) : le fichier source contenait une ligne d'en-tête dupliquée au milieu des données,
