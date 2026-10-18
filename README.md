@@ -56,7 +56,7 @@ Bank-Imbalanced/
 ```bash
 python -m venv imbalanced-env
 source imbalanced-env/bin/activate      # Windows : imbalanced-env\Scripts\activate
-pip install -r requirements.txt xgboost imbalanced-learn
+pip install -r requirements.txt
 ```
 
 Placer le fichier de données `guillaume.txt` dans `data/`, puis exécuter les notebooks dans l'ordre.
